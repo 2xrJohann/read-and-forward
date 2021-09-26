@@ -1,0 +1,10 @@
+{
+	"txId": "123456",
+	"txType": "testTx",
+	"result": "Success",
+	"resultcode": "200",
+	"messages": {
+		"error": "none",
+		"response": "successful transaction"
+	}
+}
