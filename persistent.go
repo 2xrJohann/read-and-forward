@@ -69,7 +69,7 @@ func waitForInput(){
 			text = strings.TrimSuffix(text, "\n")
 
 			/*windows has ascii char 13 on the end of strings
-			fir carriage returns when I use vscode, if its there
+			for carriage returns when I use vscode, if its there
 			then get rid of that too since it messes up my done
 			channel*/
 			ascii := 13
